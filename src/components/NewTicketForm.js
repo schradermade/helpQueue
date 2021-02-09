@@ -7,3 +7,5 @@ function NewTicketForm(props) {
     </React.Fragment>
   );
 }
+
+export default NewTicketForm;
